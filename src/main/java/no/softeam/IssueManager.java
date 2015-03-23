@@ -10,7 +10,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class IssueManager {
 
-	String githubToken = "ccdbf257f052a594a0e7bd2823a69ae38a48ffb1";
+	String githubToken = "49966bdc088e4471d576ecaf55d2673e0fb35016";
 
 	String org = "spring-projects";
 	String[] repos = new String[] {"spring-boot", "spring-boot-issues"};
